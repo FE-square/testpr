@@ -1,4 +1,6 @@
 
 git branch -m master main
 
-git push -u origin main
+git push -u origin main 
+
+git checkout（签出到）用于切换分支 VSCode中左下角显示的就是当前分支名 
